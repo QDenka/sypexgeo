@@ -1,4 +1,4 @@
-# GeoIP for Laravel 5
+# GeoIP for Laravel 7
 
 ----------
 
@@ -13,7 +13,7 @@ The data comes from a database and from service http://sypexgeo.net
 To get the latest version of SypexGeo simply require it in your `composer.json` file.
 
 ~~~
-"scriptixru/sypexgeo": "0.2.*@dev"
+"qdenka/sypexgeo": "^1.0"
 ~~~
 
 You'll then need to run `composer install` to download it and have the autoloader updated.

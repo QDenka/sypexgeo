@@ -2,7 +2,7 @@
     "name": "qdenka/sypexgeo",
     "description": "Supports GeoIP services (sypexgeo.net).",
     "keywords": ["laravel", "laravel 8", "geoip", "location", "geolocation"],
-	"license": "BSD 2-Clause",
+	"license": "MIT",
     "authors": [
         {
             "name": "Varchak Valery",

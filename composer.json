@@ -1,0 +1,25 @@
+{
+    "name": "qdenka/sypexgeo",
+    "description": "Supports GeoIP services (sypexgeo.net).",
+    "keywords": ["laravel", "laravel 8", "geoip", "location", "geolocation"],
+	"license": "BSD 2-Clause",
+    "authors": [
+        {
+            "name": "Varchak Valery",
+            "email": "scriptixru@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "Scriptixru\\SypexGeo\\": "src/Scriptixru/SypexGeo"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.2-dev"
+        }
+    }
+}
